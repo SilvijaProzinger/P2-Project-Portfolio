@@ -1,4 +1,4 @@
-Live preview: https://silvijaprozinger.github.io/P2-Project-Protfolio/
+Live preview: https://silvijaprozinger.github.io/P2-Project-Portfolio/
 
 # P2-Project-Protfolio
 Repository for Udacity FEND Project 2, Project Portfolio
